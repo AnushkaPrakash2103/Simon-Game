@@ -81,7 +81,7 @@ function playSound(btnColor)
             blue.play();
             break;
         default:
-            console.log(buttonInnerHTML);
+            console.log(btnColor);
             break;
     }
 }
